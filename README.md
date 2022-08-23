@@ -1,8 +1,8 @@
-# ReiNX
+# MilkNX, W.I.P fork of ReiNX
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 <a href="https://discord.gg/NxpeNwz"><img src="https://discordapp.com/api/guilds/465980502206054400/embed.png" alt="Discord Server" /></a>
 
-*The modular switch custom firmware*
+*The modular switch custom firmware (forked and revived.)*
 
 **Usage:**
 
@@ -36,13 +36,22 @@ To compile with Docker, `chmod +x docker-build.sh` and run the shell script `./d
 
 **Official thread:**
 
+**Thread is for ReiNX, I plan to make my own thread eventually
+but for now, use this one**
+
 [HERE](https://gbatemp.net/threads/official-reinx-thread.512203/)
 
 **Official Installation guide**
 
+**Site isn't up anymore as of writing this
+don't use that link for rn, please and thanks**
 [HERE](https://reinx.guide/)
 
 **Credits:**
+
+ Reisyukaku for ReiNX
+ 
+ Contributers to ReiNX
 
  Naehrwert for hardware init code and generally being helpful!
 
