@@ -7,6 +7,7 @@
 *all of this stuff relates to ReiNX as of writing this, I currently
 haven't touched much, if not, barely anything, this stuff should still
 apply until I get around to changing it after I learn more C among other languages*
+
 **Usage:**
 
 
@@ -49,6 +50,7 @@ but for now, use this one**
 
 **Site isn't up anymore as of writing this
 don't use that link for rn, please and thanks**
+
 [HERE](https://reinx.guide/)
 
 **Credits:**
