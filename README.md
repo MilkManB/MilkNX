@@ -57,7 +57,7 @@ don't use that link for rn, please and thanks**
 
  Reisyukaku for ReiNX
  
- Contributers to ReiNX
+ Contributers of ReiNX (and MilkNX, hopefully) for all that they've done
 
  Naehrwert for hardware init code and generally being helpful!
 
