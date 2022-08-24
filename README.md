@@ -5,7 +5,7 @@
 *The modular switch custom firmware (forked and revived.)*
 
 *all of this stuff relates to ReiNX as of writing this, I currently
-haven't touched much, if not, barely anything, this stuff should still
+haven't touched much, if not, anything at all, this stuff should still
 apply until I get around to changing it after I learn more C among other languages*
 
 **Usage:**
